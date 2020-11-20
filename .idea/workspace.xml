@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c3aa8c47-d736-4b37-b290-c3826d449142" name="默认的" comment="">
+      <change afterPath="$PROJECT_DIR$/src/chapter7_Stream/SystemIOExample3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/chapter3_OOP/Fruit.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaDemo/chapter3_OOP/Fruit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter3_OOP/Fruit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter3_OOP/Fruit.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:\Idea\IntelliJ IDEA 2019.3.3\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="#JAVA_HOME" />
+    <option name="vmOptions" value="-DarchetypeCatalog=interal" />
+  </component>
+  <component name="ProjectId" id="1kHppUMQk3PCs2u67vr5kStsCnl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="SDK" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RunManager" selected="Application.SystemIOExample3">
+    <configuration name="LoginMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter6.TestProject.LoginMain" />
+      <module name="javaDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter6_Exceptions.TestProject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter_8_Thread.MyThread" />
+      <module name="javaDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter_8_Thread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SystemIOExample1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter7_Stream.SystemIOExample1" />
+      <module name="javaDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter7_Stream.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SystemIOExample2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter7_Stream.SystemIOExample2" />
+      <module name="javaDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter7_Stream.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SystemIOExample3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter7_Stream.SystemIOExample3" />
+      <module name="javaDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter7_Stream.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.LoginMain" />
+      <item itemvalue="Application.SystemIOExample1" />
+      <item itemvalue="Application.SystemIOExample2" />
+      <item itemvalue="Application.MyThread" />
+      <item itemvalue="Application.SystemIOExample3" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SystemIOExample3" />
+        <item itemvalue="Application.MyThread" />
+        <item itemvalue="Application.SystemIOExample2" />
+        <item itemvalue="Application.SystemIOExample1" />
+        <item itemvalue="Application.LoginMain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\zhou1\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c3aa8c47-d736-4b37-b290-c3826d449142" name="默认的" comment="" />
+      <created>1605367553480</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605367553480</updated>
+      <workItem from="1605367555842" duration="2417000" />
+      <workItem from="1605371105818" duration="1044000" />
+      <workItem from="1605403071204" duration="26213000" />
+      <workItem from="1605444606624" duration="62000" />
+      <workItem from="1605444740300" duration="465000" />
+      <workItem from="1605449159299" duration="6767000" />
+      <workItem from="1605493250667" duration="687000" />
+      <workItem from="1605519406247" duration="3612000" />
+      <workItem from="1605530521101" duration="1720000" />
+      <workItem from="1605535337231" duration="1205000" />
+      <workItem from="1605538887704" duration="1420000" />
+      <workItem from="1605540386306" duration="3779000" />
+      <workItem from="1605571642684" duration="2422000" />
+      <workItem from="1605574398385" duration="2839000" />
+      <workItem from="1605623275576" duration="1521000" />
+      <workItem from="1605624821968" duration="4230000" />
+      <workItem from="1605696348652" duration="2401000" />
+      <workItem from="1605709525564" duration="2136000" />
+      <workItem from="1605751693171" duration="4780000" />
+      <workItem from="1605865214241" duration="5836000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="477" y="108" key="#Calculator" timestamp="1605544680682">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="477" y="108" key="#Calculator/0.0.1536.864@0.0.1536.864" timestamp="1605544680682" />
+    <state x="223" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605542792978">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="223" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1605542792978" />
+    <state x="574" y="139" key="#com.intellij.ide.util.MemberChooser" timestamp="1605758924525">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="574" y="139" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1605758924525" />
+    <state x="499" y="179" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1605440954024">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="499" y="179" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1536.864@0.0.1536.864" timestamp="1605440954024" />
+    <state x="435" y="0" key="CommitChangelistDialog2" timestamp="1605532112509">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="435" y="0" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1605532112509" />
+    <state x="742" y="193" key="FileChooserDialogImpl" timestamp="1605871827360">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="742" y="193" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1605871827360" />
+    <state width="1492" height="212" key="GridCell.Tab.0.bottom" timestamp="1605880971896">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1492" height="212" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1605880971896" />
+    <state width="1492" height="212" key="GridCell.Tab.0.center" timestamp="1605880971896">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1492" height="212" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1605880971896" />
+    <state width="1492" height="212" key="GridCell.Tab.0.left" timestamp="1605880971896">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1492" height="212" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1605880971896" />
+    <state width="1492" height="212" key="GridCell.Tab.0.right" timestamp="1605880971896">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1492" height="212" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1605880971896" />
+    <state x="210" y="115" key="SettingsEditor" timestamp="1605880905455">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="210" y="115" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1605880905455" />
+    <state x="478" y="308" key="com.intellij.ide.util.TipDialog" timestamp="1605865216307">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="478" y="308" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1605865216307" />
+    <state x="519" y="325" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1605535504348">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="519" y="325" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.864@0.0.1536.864" timestamp="1605535504348" />
+    <state x="308" y="33" key="new project wizard" timestamp="1605581461170">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="308" y="33" key="new project wizard/0.0.1536.864@0.0.1536.864" timestamp="1605581461170" />
+    <state x="425" y="197" key="run.anything.popup" timestamp="1605625686566">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="425" y="197" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1605625686566" />
+    <state x="430" y="185" width="672" height="678" key="search.everywhere.popup" timestamp="1605757203798">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="430" y="185" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1605757203798" />
+  </component>
+</project>
